@@ -32,7 +32,7 @@ const Hero = () => {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.6, delay: 0.8 }}
-          className="font-body text-base md:text-lg text-primary-foreground/70 max-w-md mb-10 leading-relaxed font-light tracking-tight"
+          className="font-body text-lg md:text-xl text-primary-foreground max-w-md mb-10 leading-snug font-semibold tracking-tight"
         >
           Ceremonial-grade matcha, stone-ground in Uji, Japan. A ritual for the body and mind — not just a drink.
         </motion.p>
